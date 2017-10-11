@@ -1,0 +1,6 @@
+c:\users\bjm37\documents\visual studio 2017\Projects\GrandCircus_MVC\bin\Debug\GrandCircus_MVC.exe.config
+c:\users\bjm37\documents\visual studio 2017\Projects\GrandCircus_MVC\bin\Debug\GrandCircus_MVC.exe
+c:\users\bjm37\documents\visual studio 2017\Projects\GrandCircus_MVC\bin\Debug\GrandCircus_MVC.pdb
+c:\users\bjm37\documents\visual studio 2017\Projects\GrandCircus_MVC\obj\Debug\GrandCircus_MVC.csprojResolveAssemblyReference.cache
+c:\users\bjm37\documents\visual studio 2017\Projects\GrandCircus_MVC\obj\Debug\GrandCircus_MVC.exe
+c:\users\bjm37\documents\visual studio 2017\Projects\GrandCircus_MVC\obj\Debug\GrandCircus_MVC.pdb

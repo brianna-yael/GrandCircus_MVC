@@ -6,12 +6,7 @@ using System.Threading.Tasks;
 
 namespace GrandCircus_MVC
 {
-    class Program
+    class Canada : Country
     {
-        static void Main(string[] args)
-        {
-            Controller c = new Controller();
-            c.DisplayCountry();
-        }
     }
 }
